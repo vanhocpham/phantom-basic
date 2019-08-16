@@ -1,0 +1,23 @@
+{
+  "name": "phantom-basic",
+  "version": "1.0.0",
+  "description": "phantomjs, nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoc-anms/phantom-basic.git"
+  },
+  "keywords": [
+    "phantomjs",
+    "nodejs"
+  ],
+  "author": "hoc-anms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hoc-anms/phantom-basic/issues"
+  },
+  "homepage": "https://github.com/hoc-anms/phantom-basic#readme"
+}
